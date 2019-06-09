@@ -1168,47 +1168,16 @@ F 3 "~" H 1800 3950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1800 3800 1800 3700
-$Comp
-L Device:LED D7
-U 1 1 5D05623B
-P 2150 3550
-F 0 "D7" V 2188 3433 50  0000 R CNN
-F 1 "LED" V 2097 3433 50  0000 R CNN
-F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 2150 3550 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 2150 3550 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
-	1    2150 3550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R_US R30
-U 1 1 5D056242
-P 2150 3950
-F 0 "R30" H 2218 3996 50  0000 L CNN
-F 1 "68" H 2218 3905 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2190 3940 50  0001 C CNN
-F 3 "~" H 2150 3950 50  0001 C CNN
-	1    2150 3950
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2150 3800 2150 3700
 Wire Wire Line
 	1450 4100 1600 4100
 Connection ~ 1600 4100
 Wire Wire Line
 	1600 4100 1800 4100
-Connection ~ 1800 4100
-Wire Wire Line
-	1800 4100 2150 4100
 Wire Wire Line
 	1450 3400 1600 3400
 Connection ~ 1600 3400
 Wire Wire Line
 	1600 3400 1800 3400
-Connection ~ 1800 3400
-Wire Wire Line
-	1800 3400 2150 3400
 $Comp
 L Device:LED D4
 U 1 1 5D0603E8
@@ -1308,47 +1277,16 @@ F 3 "~" H 1800 6200 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1800 6050 1800 5950
-$Comp
-L Device:LED D8
-U 1 1 5D060429
-P 2150 5800
-F 0 "D8" V 2188 5683 50  0000 R CNN
-F 1 "LED" V 2097 5683 50  0000 R CNN
-F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 2150 5800 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 2150 5800 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
-	1    2150 5800
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R_US R31
-U 1 1 5D060430
-P 2150 6200
-F 0 "R31" H 2218 6246 50  0000 L CNN
-F 1 "68" H 2218 6155 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2190 6190 50  0001 C CNN
-F 3 "~" H 2150 6200 50  0001 C CNN
-	1    2150 6200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2150 6050 2150 5950
 Wire Wire Line
 	1450 6350 1600 6350
 Connection ~ 1600 6350
 Wire Wire Line
 	1600 6350 1800 6350
-Connection ~ 1800 6350
-Wire Wire Line
-	1800 6350 2150 6350
 Wire Wire Line
 	1450 5650 1600 5650
 Connection ~ 1600 5650
 Wire Wire Line
 	1600 5650 1800 5650
-Connection ~ 1800 5650
-Wire Wire Line
-	1800 5650 2150 5650
 $Comp
 L Device:LED D11
 U 1 1 5D06E27C
@@ -1448,47 +1386,16 @@ F 3 "~" H 3600 6150 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3600 6000 3600 5900
-$Comp
-L Device:LED D16
-U 1 1 5D06E2BD
-P 3950 5750
-F 0 "D16" V 3988 5633 50  0000 R CNN
-F 1 "LED" V 3897 5633 50  0000 R CNN
-F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 3950 5750 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3950 5750 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
-	1    3950 5750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R_US R43
-U 1 1 5D06E2C4
-P 3950 6150
-F 0 "R43" H 4018 6196 50  0000 L CNN
-F 1 "68" H 4018 6105 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3990 6140 50  0001 C CNN
-F 3 "~" H 3950 6150 50  0001 C CNN
-	1    3950 6150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3950 6000 3950 5900
 Wire Wire Line
 	3250 6300 3400 6300
 Connection ~ 3400 6300
 Wire Wire Line
 	3400 6300 3600 6300
-Connection ~ 3600 6300
-Wire Wire Line
-	3600 6300 3950 6300
 Wire Wire Line
 	3250 5600 3400 5600
 Connection ~ 3400 5600
 Wire Wire Line
 	3400 5600 3600 5600
-Connection ~ 3600 5600
-Wire Wire Line
-	3600 5600 3950 5600
 $Comp
 L Device:LED D10
 U 1 1 5D079ED7
@@ -1696,4 +1603,58 @@ F 4 "https://www.mouser.com/ProductDetail/MMBT3904215" H 3300 4400 50  0001 C CN
 	1    3300 4400
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Battery_Cell BT?
+U 1 1 5CFF1130
+P 5500 7100
+F 0 "BT?" H 5618 7196 50  0000 L CNN
+F 1 "Battery_Cell" H 5618 7105 50  0000 L CNN
+F 2 "" V 5500 7160 50  0001 C CNN
+F 3 "~" V 5500 7160 50  0001 C CNN
+	1    5500 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW?
+U 1 1 5CFF1526
+P 5200 6800
+F 0 "SW?" H 5200 7035 50  0000 C CNN
+F 1 "SW_SPST" H 5200 6944 50  0000 C CNN
+F 2 "" H 5200 6800 50  0001 C CNN
+F 3 "" H 5200 6800 50  0001 C CNN
+	1    5200 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5CFF1688
+P 4900 6700
+F 0 "#PWR?" H 4900 6550 50  0001 C CNN
+F 1 "VCC" H 4917 6873 50  0000 C CNN
+F 2 "" H 4900 6700 50  0001 C CNN
+F 3 "" H 4900 6700 50  0001 C CNN
+	1    4900 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CFF17CA
+P 5500 7300
+F 0 "#PWR?" H 5500 7050 50  0001 C CNN
+F 1 "GND" H 5505 7127 50  0000 C CNN
+F 2 "" H 5500 7300 50  0001 C CNN
+F 3 "" H 5500 7300 50  0001 C CNN
+	1    5500 7300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 6700 4900 6800
+Wire Wire Line
+	4900 6800 5000 6800
+Wire Wire Line
+	5400 6800 5500 6800
+Wire Wire Line
+	5500 6800 5500 6900
+Wire Wire Line
+	5500 7200 5500 7300
 $EndSCHEMATC
