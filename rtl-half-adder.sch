@@ -1076,8 +1076,8 @@ P 1450 3550
 F 0 "D3" V 1488 3433 50  0000 R CNN
 F 1 "LED" V 1397 3433 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 1450 3550 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1450 3550 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 1450 3550 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    1450 3550
 	0    -1   -1   0   
 $EndComp
@@ -1150,8 +1150,8 @@ P 1800 3550
 F 0 "D5" V 1838 3433 50  0000 R CNN
 F 1 "LED" V 1747 3433 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 1800 3550 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1800 3550 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 1800 3550 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    1800 3550
 	0    -1   -1   0   
 $EndComp
@@ -1185,8 +1185,8 @@ P 1450 5800
 F 0 "D4" V 1488 5683 50  0000 R CNN
 F 1 "LED" V 1397 5683 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 1450 5800 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1450 5800 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 1450 5800 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    1450 5800
 	0    -1   -1   0   
 $EndComp
@@ -1259,8 +1259,8 @@ P 1800 5800
 F 0 "D6" V 1838 5683 50  0000 R CNN
 F 1 "LED" V 1747 5683 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 1800 5800 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1800 5800 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 1800 5800 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    1800 5800
 	0    -1   -1   0   
 $EndComp
@@ -1294,8 +1294,8 @@ P 3250 5750
 F 0 "D11" V 3288 5633 50  0000 R CNN
 F 1 "LED" V 3197 5633 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 3250 5750 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3250 5750 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3250 5750 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    3250 5750
 	0    -1   -1   0   
 $EndComp
@@ -1368,8 +1368,8 @@ P 3600 5750
 F 0 "D13" V 3638 5633 50  0000 R CNN
 F 1 "LED" V 3547 5633 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 3600 5750 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3600 5750 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3600 5750 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    3600 5750
 	0    -1   -1   0   
 $EndComp
@@ -1403,8 +1403,8 @@ P 3250 3550
 F 0 "D10" V 3288 3433 50  0000 R CNN
 F 1 "LED" V 3197 3433 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 3250 3550 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3250 3550 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3250 3550 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    3250 3550
 	0    -1   -1   0   
 $EndComp
@@ -1477,8 +1477,8 @@ P 3600 3550
 F 0 "D12" V 3638 3433 50  0000 R CNN
 F 1 "LED" V 3547 3433 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 3600 3550 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3600 3550 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3600 3550 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    3600 3550
 	0    -1   -1   0   
 $EndComp
@@ -1502,8 +1502,8 @@ P 3950 3550
 F 0 "D15" V 3988 3433 50  0000 R CNN
 F 1 "LED" V 3897 3433 50  0000 R CNN
 F 2 "--Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm" H 3950 3550 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3950 3550 50  0001 C CNN
-F 4 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 0   0   50  0001 C CNN "Link"
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3950 3550 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 0   0   50  0001 C CNN "Link"
 	1    3950 3550
 	0    -1   -1   0   
 $EndComp
@@ -1610,7 +1610,8 @@ P 5500 7100
 F 0 "BT?" H 5618 7196 50  0000 L CNN
 F 1 "Battery_Cell" H 5618 7105 50  0000 L CNN
 F 2 "--Project:BatteryHolder_CR1220_THT" V 5500 7160 50  0001 C CNN
-F 3 "~" V 5500 7160 50  0001 C CNN
+F 3 "https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-thm.pdf" V 5500 7160 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/BAT-HLD-012-THM" H 0   0   50  0001 C CNN "Link"
 	1    5500 7100
 	1    0    0    -1  
 $EndComp
