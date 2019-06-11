@@ -14,61 +14,43 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Switch:SW_DIP_x02 SW2
-U 1 1 5CF808F6
-P 3350 1700
-F 0 "SW2" H 3350 2067 50  0000 C CNN
-F 1 "SW_DIP_x02" H 3350 1976 50  0000 C CNN
-F 2 "Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm" H 3350 1700 50  0001 C CNN
-F 3 "" H 3350 1700 50  0001 C CNN
-	1    3350 1700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	2950 1250 2950 1600
-Wire Wire Line
-	2950 1600 3050 1600
-Wire Wire Line
-	3050 1700 2950 1700
-Wire Wire Line
-	2950 1700 2950 1600
-Connection ~ 2950 1600
+	3050 1850 2950 1850
 $Comp
 L Device:R_US R5
 U 1 1 5CF80AF3
-P 3650 1950
-F 0 "R5" H 3718 1996 50  0000 L CNN
-F 1 "10k" H 3718 1905 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3690 1940 50  0001 C CNN
-F 3 "~" H 3650 1950 50  0001 C CNN
-	1    3650 1950
+P 3650 2000
+F 0 "R5" H 3718 2046 50  0000 L CNN
+F 1 "10k" H 3718 1955 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3690 1990 50  0001 C CNN
+F 3 "~" H 3650 2000 50  0001 C CNN
+	1    3650 2000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_US R6
 U 1 1 5CF80B47
-P 3950 1950
-F 0 "R6" H 4018 1996 50  0000 L CNN
-F 1 "10k" H 4018 1905 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3990 1940 50  0001 C CNN
-F 3 "~" H 3950 1950 50  0001 C CNN
-	1    3950 1950
+P 3950 2000
+F 0 "R6" H 4018 2046 50  0000 L CNN
+F 1 "10k" H 4018 1955 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3990 1990 50  0001 C CNN
+F 3 "~" H 3950 2000 50  0001 C CNN
+	1    3950 2000
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR08
 U 1 1 5CF80BA4
-P 3650 2200
-F 0 "#PWR08" H 3650 1950 50  0001 C CNN
-F 1 "GND" H 3655 2027 50  0000 C CNN
-F 2 "" H 3650 2200 50  0001 C CNN
-F 3 "" H 3650 2200 50  0001 C CNN
-	1    3650 2200
+P 3650 2250
+F 0 "#PWR08" H 3650 2000 50  0001 C CNN
+F 1 "GND" H 3655 2077 50  0000 C CNN
+F 2 "" H 3650 2250 50  0001 C CNN
+F 3 "" H 3650 2250 50  0001 C CNN
+	1    3650 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3650 2100 3650 2200
+	3650 2150 3650 2250
 $Comp
 L power:VCC #PWR014
 U 1 1 5CF8179F
@@ -727,12 +709,12 @@ Wire Wire Line
 $Comp
 L power:VCC #PWR05
 U 1 1 5CF80A5A
-P 2950 1250
-F 0 "#PWR05" H 2950 1100 50  0001 C CNN
-F 1 "VCC" H 2967 1423 50  0000 C CNN
-F 2 "" H 2950 1250 50  0001 C CNN
-F 3 "" H 2950 1250 50  0001 C CNN
-	1    2950 1250
+P 2950 1100
+F 0 "#PWR05" H 2950 950 50  0001 C CNN
+F 1 "VCC" H 2967 1273 50  0000 C CNN
+F 2 "" H 2950 1100 50  0001 C CNN
+F 3 "" H 2950 1100 50  0001 C CNN
+	1    2950 1100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -960,19 +942,19 @@ Wire Wire Line
 $Comp
 L power:GND #PWR09
 U 1 1 5CFEC196
-P 3950 2200
-F 0 "#PWR09" H 3950 1950 50  0001 C CNN
-F 1 "GND" H 3955 2027 50  0000 C CNN
-F 2 "" H 3950 2200 50  0001 C CNN
-F 3 "" H 3950 2200 50  0001 C CNN
-	1    3950 2200
+P 3950 2250
+F 0 "#PWR09" H 3950 2000 50  0001 C CNN
+F 1 "GND" H 3955 2077 50  0000 C CNN
+F 2 "" H 3950 2250 50  0001 C CNN
+F 3 "" H 3950 2250 50  0001 C CNN
+	1    3950 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3950 2100 3950 2200
-Text GLabel 4150 1600 2    50   Input ~ 0
+	3950 2150 3950 2250
+Text GLabel 4150 1200 2    50   Input ~ 0
 A
-Text GLabel 4150 1700 2    50   Input ~ 0
+Text GLabel 4150 1750 2    50   Input ~ 0
 B
 Text GLabel 5450 2100 0    50   Input ~ 0
 B
@@ -1036,17 +1018,16 @@ Wire Wire Line
 Wire Wire Line
 	9700 5600 9800 5600
 Wire Wire Line
-	3650 1600 3950 1600
+	3450 1200 3950 1200
 Wire Wire Line
-	3650 1700 4150 1700
+	3650 1750 4150 1750
 Wire Wire Line
-	3650 1800 3650 1700
-Connection ~ 3650 1700
+	3650 1850 3650 1750
 Wire Wire Line
-	3950 1800 3950 1600
-Connection ~ 3950 1600
+	3950 1850 3950 1200
+Connection ~ 3950 1200
 Wire Wire Line
-	3950 1600 4150 1600
+	3950 1200 4150 1200
 Text GLabel 6200 4600 2    50   Input ~ 0
 XOR1
 Text GLabel 7650 3250 2    50   Input ~ 0
@@ -1187,4 +1168,40 @@ F 4 "https://www.mouser.com/ProductDetail/EG1218" H 0   0   50  0001 C CNN "Link
 	0    1    1    0   
 $EndComp
 NoConn ~ 1300 1550
+$Comp
+L Switch:SW_SPDT SW2
+U 1 1 5D043538
+P 3250 1300
+F 0 "SW2" H 3250 1585 50  0000 C CNN
+F 1 "SW_SPDT" H 3250 1494 50  0000 C CNN
+F 2 "--Project:SW_EG1218_SPDT" H 3250 1300 50  0001 C CNN
+F 3 "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf" H 3250 1300 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/EG1218" H 1850 -50 50  0001 C CNN "Link"
+	1    3250 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPDT SW3
+U 1 1 5D0435E6
+P 3250 1850
+F 0 "SW3" H 3250 2135 50  0000 C CNN
+F 1 "SW_SPDT" H 3250 2044 50  0000 C CNN
+F 2 "--Project:SW_EG1218_SPDT" H 3250 1850 50  0001 C CNN
+F 3 "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf" H 3250 1850 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/EG1218" H 1850 500 50  0001 C CNN "Link"
+	1    3250 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 1750 3450 1750
+Connection ~ 3650 1750
+Wire Wire Line
+	2950 1100 2950 1300
+Wire Wire Line
+	3050 1300 2950 1300
+Connection ~ 2950 1300
+Wire Wire Line
+	2950 1300 2950 1850
+NoConn ~ 3450 1400
+NoConn ~ 3450 1950
 $EndSCHEMATC
