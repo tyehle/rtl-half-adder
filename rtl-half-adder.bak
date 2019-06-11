@@ -1180,9 +1180,11 @@ U 1 1 5D0DFEF5
 P 1400 1350
 F 0 "SW2" V 1354 1498 50  0000 L CNN
 F 1 "SW_SPDT" V 1445 1498 50  0000 L CNN
-F 2 "" H 1400 1350 50  0001 C CNN
-F 3 "" H 1400 1350 50  0001 C CNN
+F 2 "--Project:SW_EG1218_SPDT" H 1400 1350 50  0001 C CNN
+F 3 "https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf" H 1400 1350 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/EG1218" H 0   0   50  0001 C CNN "Link"
 	1    1400 1350
 	0    1    1    0   
 $EndComp
+NoConn ~ 1300 1550
 $EndSCHEMATC
