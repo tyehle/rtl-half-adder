@@ -1,4 +1,8 @@
 # RTL Half Adder Circuit
+
+![board-render-f](svg/top.svg)
+![board-render-b](svg/bottom.svg)
+
 A half adder circuit implemented with resistor transistor logic. All essential logic is on the front with through hole parts, and additional lights are surface mount on the back.
 
 # Schematic
@@ -11,10 +15,6 @@ A half adder circuit implemented with resistor transistor logic. All essential l
 # Component Placement
 ![front-fab](docs/doc-F.svg)
 ![back-fab](docs/doc-B.svg)
-
-# Board
-![board-render-f](svg/top.svg)
-![board-render-b](svg/bottom.svg)
 
 # LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
