@@ -5,14 +5,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title ""
-Date ""
-Rev ""
+Title "RTL Half Adder"
+Date "2019-06-12"
+Rev "v1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 "creativecommons.org/licenses/by-nc-sa/4.0/"
+Comment2 "CC BY-NC-SA"
+Comment3 "github.com/tyehle/rtl-half-adder"
+Comment4 "Author: Tobin Yehle"
 $EndDescr
 $Comp
 L Device:LED D5
@@ -1023,4 +1023,15 @@ Wire Wire Line
 	9600 5700 9700 5700
 Wire Wire Line
 	9700 5700 9700 5550
+$Comp
+L Graphic:Logo_Open_Hardware_Large #LOGO?
+U 1 1 5D036C9E
+P 6350 7200
+F 0 "#LOGO?" H 6350 7700 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Large" H 6350 6800 50  0001 C CNN
+F 2 "" H 6350 7200 50  0001 C CNN
+F 3 "~" H 6350 7200 50  0001 C CNN
+	1    6350 7200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
