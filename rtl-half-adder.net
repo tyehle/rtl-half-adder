@@ -1,30 +1,30 @@
 (export (version D)
   (design
     (source /home/tobin/src/rtl-half-adder/rtl-half-adder.sch)
-    (date "Tue 11 Jun 2019 07:56:38 PM PDT")
+    (date "Tue 30 Jul 2019 07:55:03 PM PDT")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
-        (title)
+        (title "RTL Half Adder")
         (company)
-        (rev)
-        (date)
+        (rev v1)
+        (date 2019-06-12)
         (source rtl-half-adder.sch)
-        (comment (number 1) (value ""))
-        (comment (number 2) (value ""))
-        (comment (number 3) (value ""))
-        (comment (number 4) (value ""))))
+        (comment (number 1) (value creativecommons.org/licenses/by-nc-sa/4.0/))
+        (comment (number 2) (value "CC BY-NC-SA"))
+        (comment (number 3) (value github.com/tyehle/rtl-half-adder))
+        (comment (number 4) (value "Author: Tobin Yehle"))))
     (sheet (number 2) (name /smd-led/) (tstamps /5D016A93/)
       (title_block
-        (title)
+        (title "RTL Half Adder")
         (company)
-        (rev)
-        (date)
+        (rev v1)
+        (date 2019-06-12)
         (source smd-led.sch)
-        (comment (number 1) (value ""))
-        (comment (number 2) (value ""))
-        (comment (number 3) (value ""))
-        (comment (number 4) (value "")))))
+        (comment (number 1) (value creativecommons.org/licenses/by-nc-sa/4.0/))
+        (comment (number 2) (value "CC BY-NC-SA"))
+        (comment (number 3) (value github.com/tyehle/rtl-half-adder))
+        (comment (number 4) (value "Author: Tobin Yehle")))))
   (components
     (comp (ref R5)
       (value 10k)
@@ -416,7 +416,7 @@
       (tstamp 5D0435E6))
     (comp (ref D5)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -439,7 +439,7 @@
       (tstamp 5CFFBEA4))
     (comp (ref D6)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -455,7 +455,7 @@
       (tstamp 5CFFBEB9))
     (comp (ref D10)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -478,7 +478,7 @@
       (tstamp 5CFFBEE5))
     (comp (ref D11)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -494,7 +494,7 @@
       (tstamp 5CFFBEFA))
     (comp (ref D12)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -517,7 +517,7 @@
       (tstamp 5CFFBF26))
     (comp (ref D13)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -533,7 +533,7 @@
       (tstamp 5CFFBF3B))
     (comp (ref D7)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -556,7 +556,7 @@
       (tstamp 5CFFBF67))
     (comp (ref D8)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -572,7 +572,7 @@
       (tstamp 5CFFBF7C))
     (comp (ref D9)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -624,7 +624,7 @@
       (tstamp 5CFFBFB7))
     (comp (ref D14)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -640,7 +640,7 @@
       (tstamp 5D00990A))
     (comp (ref D15)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -656,7 +656,7 @@
       (tstamp 5D009935))
     (comp (ref D16)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -672,7 +672,7 @@
       (tstamp 5D009945))
     (comp (ref D17)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -688,7 +688,7 @@
       (tstamp 5D00B203))
     (comp (ref D18)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -704,7 +704,7 @@
       (tstamp 5D00B213))
     (comp (ref D19)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -720,7 +720,7 @@
       (tstamp 5D00C713))
     (comp (ref D20)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -736,7 +736,7 @@
       (tstamp 5D01D445))
     (comp (ref D21)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -752,7 +752,7 @@
       (tstamp 5D01D45C))
     (comp (ref D22)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -768,7 +768,7 @@
       (tstamp 5D01D46C))
     (comp (ref D23)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -784,7 +784,7 @@
       (tstamp 5D01D47F))
     (comp (ref D24)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -800,7 +800,7 @@
       (tstamp 5D01D48F))
     (comp (ref D25)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -816,7 +816,7 @@
       (tstamp 5D01D4A3))
     (comp (ref D26)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))
@@ -832,7 +832,7 @@
       (tstamp 5D020212))
     (comp (ref D27)
       (value LED)
-      (footprint --Project:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm)
+      (footprint --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder)
       (datasheet http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf)
       (fields
         (field (name Link) https://www.mouser.com/ProductDetail/IN-S124BRUW))

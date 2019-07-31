@@ -1209,8 +1209,8 @@ L Graphic:Logo_Open_Hardware_Large #LOGO?
 U 1 1 5D03E126
 P 6350 7200
 AR Path="/5D016A93/5D03E126" Ref="#LOGO?"  Part="1" 
-AR Path="/5D03E126" Ref="#LOGO?"  Part="1" 
-F 0 "#LOGO?" H 6350 7700 50  0001 C CNN
+AR Path="/5D03E126" Ref="#LOGO1"  Part="1" 
+F 0 "#LOGO1" H 6350 7700 50  0001 C CNN
 F 1 "Logo_Open_Hardware_Large" H 6350 6800 50  0001 C CNN
 F 2 "" H 6350 7200 50  0001 C CNN
 F 3 "~" H 6350 7200 50  0001 C CNN
