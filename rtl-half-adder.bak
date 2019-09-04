@@ -23,7 +23,8 @@ P 3650 2000
 F 0 "R5" H 3718 2046 50  0000 L CNN
 F 1 "10k" H 3718 1955 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3690 1990 50  0001 C CNN
-F 3 "~" H 3650 2000 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 3650 2000 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    3650 2000
 	1    0    0    -1  
 $EndComp
@@ -34,7 +35,8 @@ P 3950 2000
 F 0 "R6" H 4018 2046 50  0000 L CNN
 F 1 "10k" H 4018 1955 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3990 1990 50  0001 C CNN
-F 3 "~" H 3950 2000 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 3950 2000 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    3950 2000
 	1    0    0    -1  
 $EndComp
@@ -70,7 +72,8 @@ P 5400 3950
 F 0 "R9" H 5468 3996 50  0000 L CNN
 F 1 "1k" H 5468 3905 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5440 3940 50  0001 C CNN
-F 3 "~" H 5400 3950 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 5400 3950 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-1K" H 0   0   50  0001 C CNN "Link"
 	1    5400 3950
 	1    0    0    -1  
 $EndComp
@@ -104,7 +107,8 @@ P 4950 4400
 F 0 "R7" V 4745 4400 50  0000 C CNN
 F 1 "10k" V 4836 4400 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4990 4390 50  0001 C CNN
-F 3 "~" H 4950 4400 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 4950 4400 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    4950 4400
 	0    1    1    0   
 $EndComp
@@ -117,7 +121,8 @@ P 4950 4900
 F 0 "R8" V 4745 4900 50  0000 C CNN
 F 1 "10k" V 4836 4900 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4990 4890 50  0001 C CNN
-F 3 "~" H 4950 4900 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 4950 4900 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    4950 4900
 	0    1    1    0   
 $EndComp
@@ -140,7 +145,8 @@ P 6800 3050
 F 0 "R17" H 6868 3096 50  0000 L CNN
 F 1 "1k" H 6868 3005 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6840 3040 50  0001 C CNN
-F 3 "~" H 6800 3050 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6800 3050 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-1K" H 0   0   50  0001 C CNN "Link"
 	1    6800 3050
 	1    0    0    -1  
 $EndComp
@@ -174,7 +180,8 @@ P 6350 3500
 F 0 "R13" V 6145 3500 50  0000 C CNN
 F 1 "10k" V 6236 3500 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6390 3490 50  0001 C CNN
-F 3 "~" H 6350 3500 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6350 3500 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    6350 3500
 	0    1    1    0   
 $EndComp
@@ -187,7 +194,8 @@ P 6350 4000
 F 0 "R14" V 6145 4000 50  0000 C CNN
 F 1 "10k" V 6236 4000 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6390 3990 50  0001 C CNN
-F 3 "~" H 6350 4000 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6350 4000 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    6350 4000
 	0    1    1    0   
 $EndComp
@@ -210,7 +218,8 @@ P 6800 5000
 F 0 "R18" H 6868 5046 50  0000 L CNN
 F 1 "1k" H 6868 4955 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6840 4990 50  0001 C CNN
-F 3 "~" H 6800 5000 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6800 5000 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-1K" H 0   0   50  0001 C CNN "Link"
 	1    6800 5000
 	1    0    0    -1  
 $EndComp
@@ -244,7 +253,8 @@ P 6350 5450
 F 0 "R15" V 6145 5450 50  0000 C CNN
 F 1 "10k" V 6236 5450 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6390 5440 50  0001 C CNN
-F 3 "~" H 6350 5450 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6350 5450 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    6350 5450
 	0    1    1    0   
 $EndComp
@@ -257,7 +267,8 @@ P 6350 5950
 F 0 "R16" V 6145 5950 50  0000 C CNN
 F 1 "10k" V 6236 5950 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6390 5940 50  0001 C CNN
-F 3 "~" H 6350 5950 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6350 5950 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    6350 5950
 	0    1    1    0   
 $EndComp
@@ -280,7 +291,8 @@ P 8250 3900
 F 0 "R23" H 8318 3946 50  0000 L CNN
 F 1 "1k" H 8318 3855 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8290 3890 50  0001 C CNN
-F 3 "~" H 8250 3900 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 8250 3900 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-1K" H 0   0   50  0001 C CNN "Link"
 	1    8250 3900
 	1    0    0    -1  
 $EndComp
@@ -314,7 +326,8 @@ P 7800 4350
 F 0 "R21" V 7595 4350 50  0000 C CNN
 F 1 "10k" V 7686 4350 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7840 4340 50  0001 C CNN
-F 3 "~" H 7800 4350 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 7800 4350 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    7800 4350
 	0    1    1    0   
 $EndComp
@@ -327,7 +340,8 @@ P 7800 4850
 F 0 "R22" V 7595 4850 50  0000 C CNN
 F 1 "10k" V 7686 4850 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7840 4840 50  0001 C CNN
-F 3 "~" H 7800 4850 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 7800 4850 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    7800 4850
 	0    1    1    0   
 $EndComp
@@ -425,7 +439,8 @@ P 6150 1150
 F 0 "R12" H 6218 1196 50  0000 L CNN
 F 1 "1k" H 6218 1105 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6190 1140 50  0001 C CNN
-F 3 "~" H 6150 1150 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 6150 1150 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-1K" H 0   0   50  0001 C CNN "Link"
 	1    6150 1150
 	1    0    0    -1  
 $EndComp
@@ -459,7 +474,8 @@ P 5700 1600
 F 0 "R10" V 5495 1600 50  0000 C CNN
 F 1 "10k" V 5586 1600 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5740 1590 50  0001 C CNN
-F 3 "~" H 5700 1600 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 5700 1600 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    5700 1600
 	0    1    1    0   
 $EndComp
@@ -472,7 +488,8 @@ P 5700 2100
 F 0 "R11" V 5495 2100 50  0000 C CNN
 F 1 "10k" V 5586 2100 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5740 2090 50  0001 C CNN
-F 3 "~" H 5700 2100 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 5700 2100 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    5700 2100
 	0    1    1    0   
 $EndComp
@@ -483,7 +500,8 @@ P 7550 1150
 F 0 "R20" H 7618 1196 50  0000 L CNN
 F 1 "1k" H 7618 1105 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7590 1140 50  0001 C CNN
-F 3 "~" H 7550 1150 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 7550 1150 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-1K" H 0   0   50  0001 C CNN "Link"
 	1    7550 1150
 	1    0    0    -1  
 $EndComp
@@ -517,7 +535,8 @@ P 7100 1600
 F 0 "R19" V 6895 1600 50  0000 C CNN
 F 1 "10k" V 6986 1600 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7140 1590 50  0001 C CNN
-F 3 "~" H 7100 1600 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 7100 1600 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    7100 1600
 	0    1    1    0   
 $EndComp
@@ -561,7 +580,7 @@ L Device:LED D3
 U 1 1 5CFA2DF4
 P 10100 1700
 F 0 "D3" V 10138 1583 50  0000 R CNN
-F 1 "LED" V 10047 1583 50  0000 R CNN
+F 1 "Green" V 10047 1583 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 10100 1700 50  0001 C CNN
 F 3 "~" H 10100 1700 50  0001 C CNN
 	1    10100 1700
@@ -574,8 +593,8 @@ P 10100 2100
 F 0 "R26" H 10168 2146 50  0000 L CNN
 F 1 "68" H 10168 2055 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 10140 2090 50  0001 C CNN
-F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 10100 2100 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
+F 3 "~" H 10100 2100 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    10100 2100
 	1    0    0    -1  
 $EndComp
@@ -620,7 +639,7 @@ L Device:LED D4
 U 1 1 5CFA6707
 P 10100 4750
 F 0 "D4" V 10138 4633 50  0000 R CNN
-F 1 "LED" V 10047 4633 50  0000 R CNN
+F 1 "Green" V 10047 4633 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 10100 4750 50  0001 C CNN
 F 3 "~" H 10100 4750 50  0001 C CNN
 	1    10100 4750
@@ -633,8 +652,8 @@ P 10100 5150
 F 0 "R27" H 10168 5196 50  0000 L CNN
 F 1 "68" H 10168 5105 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 10140 5140 50  0001 C CNN
-F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 10100 5150 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
+F 3 "~" H 10100 5150 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    10100 5150
 	1    0    0    -1  
 $EndComp
@@ -737,7 +756,8 @@ P 9700 5350
 F 0 "R25" H 9767 5304 50  0000 L CNN
 F 1 "10k" H 9767 5395 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 9740 5340 50  0001 C CNN
-F 3 "~" H 9700 5350 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 9700 5350 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    9700 5350
 	-1   0    0    1   
 $EndComp
@@ -748,7 +768,8 @@ P 9700 2300
 F 0 "R24" H 9767 2254 50  0000 L CNN
 F 1 "10k" H 9767 2345 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 9740 2290 50  0001 C CNN
-F 3 "~" H 9700 2300 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 9700 2300 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    9700 2300
 	-1   0    0    1   
 $EndComp
@@ -765,7 +786,7 @@ L Device:LED D1
 U 1 1 5CFD43B4
 P 1800 3450
 F 0 "D1" V 1838 3333 50  0000 R CNN
-F 1 "LED" V 1747 3333 50  0000 R CNN
+F 1 "Red" V 1747 3333 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 1800 3450 50  0001 C CNN
 F 3 "~" H 1800 3450 50  0001 C CNN
 	1    1800 3450
@@ -778,8 +799,8 @@ P 1800 3850
 F 0 "R2" H 1868 3896 50  0000 L CNN
 F 1 "68" H 1868 3805 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1840 3840 50  0001 C CNN
-F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 1800 3850 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
+F 3 "~" H 1800 3850 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    1800 3850
 	1    0    0    -1  
 $EndComp
@@ -830,7 +851,8 @@ P 1400 4050
 F 0 "R1" H 1468 4004 50  0000 L CNN
 F 1 "10k" H 1468 4095 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1440 4040 50  0001 C CNN
-F 3 "~" H 1400 4050 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 1400 4050 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    1400 4050
 	-1   0    0    1   
 $EndComp
@@ -841,7 +863,7 @@ L Device:LED D2
 U 1 1 5CFD6262
 P 3300 3450
 F 0 "D2" V 3338 3333 50  0000 R CNN
-F 1 "LED" V 3247 3333 50  0000 R CNN
+F 1 "Red" V 3247 3333 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 3300 3450 50  0001 C CNN
 F 3 "~" H 3300 3450 50  0001 C CNN
 	1    3300 3450
@@ -854,8 +876,8 @@ P 3300 3850
 F 0 "R4" H 3368 3896 50  0000 L CNN
 F 1 "68" H 3368 3805 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3340 3840 50  0001 C CNN
-F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 3300 3850 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
+F 3 "~" H 3300 3850 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    3300 3850
 	1    0    0    -1  
 $EndComp
@@ -906,7 +928,8 @@ P 2900 4050
 F 0 "R3" H 2968 4004 50  0000 L CNN
 F 1 "10k" H 2968 4095 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 2940 4040 50  0001 C CNN
-F 3 "~" H 2900 4050 50  0001 C CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf" H 2900 4050 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/CFR-25JT-52-10K" H 0   0   50  0001 C CNN "Link"
 	1    2900 4050
 	-1   0    0    1   
 $EndComp

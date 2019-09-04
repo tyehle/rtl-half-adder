@@ -580,9 +580,10 @@ L Device:LED D3
 U 1 1 5CFA2DF4
 P 10100 1700
 F 0 "D3" V 10138 1583 50  0000 R CNN
-F 1 "LED" V 10047 1583 50  0000 R CNN
+F 1 "Green" V 10047 1583 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 10100 1700 50  0001 C CNN
-F 3 "~" H 10100 1700 50  0001 C CNN
+F 3 "https://optoelectronics.liteon.com/upload/download/DS-20-92-1097/4233DG.pdf" H 10100 1700 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/LTL-4233" H 0   0   50  0001 C CNN "Link"
 	1    10100 1700
 	0    -1   -1   0   
 $EndComp
@@ -639,9 +640,10 @@ L Device:LED D4
 U 1 1 5CFA6707
 P 10100 4750
 F 0 "D4" V 10138 4633 50  0000 R CNN
-F 1 "LED" V 10047 4633 50  0000 R CNN
+F 1 "Green" V 10047 4633 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 10100 4750 50  0001 C CNN
-F 3 "~" H 10100 4750 50  0001 C CNN
+F 3 "https://optoelectronics.liteon.com/upload/download/DS-20-92-1097/4233DG.pdf" H 10100 4750 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/LTL-4233" H 0   0   50  0001 C CNN "Link"
 	1    10100 4750
 	0    -1   -1   0   
 $EndComp
@@ -786,9 +788,10 @@ L Device:LED D1
 U 1 1 5CFD43B4
 P 1800 3450
 F 0 "D1" V 1838 3333 50  0000 R CNN
-F 1 "LED" V 1747 3333 50  0000 R CNN
+F 1 "Red" V 1747 3333 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 1800 3450 50  0001 C CNN
-F 3 "~" H 1800 3450 50  0001 C CNN
+F 3 "https://optoelectronics.liteon.com/upload/download/DS20-2003-313/LTL-4223-032A.pdf" H 1800 3450 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/LTL-4223" H 0   0   50  0001 C CNN "Link"
 	1    1800 3450
 	0    -1   -1   0   
 $EndComp
@@ -863,9 +866,10 @@ L Device:LED D2
 U 1 1 5CFD6262
 P 3300 3450
 F 0 "D2" V 3338 3333 50  0000 R CNN
-F 1 "LED" V 3247 3333 50  0000 R CNN
+F 1 "Red" V 3247 3333 50  0000 R CNN
 F 2 "LED_THT:LED_D5.0mm" H 3300 3450 50  0001 C CNN
-F 3 "~" H 3300 3450 50  0001 C CNN
+F 3 "https://optoelectronics.liteon.com/upload/download/DS20-2003-313/LTL-4223-032A.pdf" H 3300 3450 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/LTL-4223" H 0   0   50  0001 C CNN "Link"
 	1    3300 3450
 	0    -1   -1   0   
 $EndComp

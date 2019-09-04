@@ -21,8 +21,8 @@ P 1950 1800
 F 0 "D5" V 1988 1683 50  0000 R CNN
 F 1 "LED" V 1897 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 1950 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 1950 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 500 -1750 50  0001 C CNN "Link"
+F 3 "~" H 1950 1800 50  0001 C CNN
+F 4 "" H 500 -1750 50  0001 C CNN "Link"
 	1    1950 1800
 	0    -1   -1   0   
 $EndComp
@@ -97,8 +97,8 @@ P 2300 1800
 F 0 "D6" V 2338 1683 50  0000 R CNN
 F 1 "LED" V 2247 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 2300 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 2300 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 500 -1750 50  0001 C CNN "Link"
+F 3 "~" H 2300 1800 50  0001 C CNN
+F 4 "" H 500 -1750 50  0001 C CNN "Link"
 	1    2300 1800
 	0    -1   -1   0   
 $EndComp
@@ -133,8 +133,8 @@ P 7200 1800
 F 0 "D10" V 7238 1683 50  0000 R CNN
 F 1 "LED" V 7147 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 7200 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 7200 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 5750 -4000 50  0001 C CNN "Link"
+F 3 "~" H 7200 1800 50  0001 C CNN
+F 4 "" H 5750 -4000 50  0001 C CNN "Link"
 	1    7200 1800
 	0    -1   -1   0   
 $EndComp
@@ -209,8 +209,8 @@ P 7550 1800
 F 0 "D11" V 7588 1683 50  0000 R CNN
 F 1 "LED" V 7497 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 7550 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 7550 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 5750 -4000 50  0001 C CNN "Link"
+F 3 "~" H 7550 1800 50  0001 C CNN
+F 4 "" H 5750 -4000 50  0001 C CNN "Link"
 	1    7550 1800
 	0    -1   -1   0   
 $EndComp
@@ -245,8 +245,8 @@ P 9400 1800
 F 0 "D12" V 9438 1683 50  0000 R CNN
 F 1 "LED" V 9347 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 9400 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 9400 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 6150 -3950 50  0001 C CNN "Link"
+F 3 "~" H 9400 1800 50  0001 C CNN
+F 4 "" H 6150 -3950 50  0001 C CNN "Link"
 	1    9400 1800
 	0    -1   -1   0   
 $EndComp
@@ -321,8 +321,8 @@ P 9750 1800
 F 0 "D13" V 9788 1683 50  0000 R CNN
 F 1 "LED" V 9697 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 9750 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 9750 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 6150 -3950 50  0001 C CNN "Link"
+F 3 "~" H 9750 1800 50  0001 C CNN
+F 4 "" H 6150 -3950 50  0001 C CNN "Link"
 	1    9750 1800
 	0    -1   -1   0   
 $EndComp
@@ -357,8 +357,8 @@ P 4400 1800
 F 0 "D7" V 4438 1683 50  0000 R CNN
 F 1 "LED" V 4347 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 4400 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 4400 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1150 -1750 50  0001 C CNN "Link"
+F 3 "~" H 4400 1800 50  0001 C CNN
+F 4 "" H 1150 -1750 50  0001 C CNN "Link"
 	1    4400 1800
 	0    -1   -1   0   
 $EndComp
@@ -433,8 +433,8 @@ P 4750 1800
 F 0 "D8" V 4788 1683 50  0000 R CNN
 F 1 "LED" V 4697 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 4750 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 4750 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1150 -1750 50  0001 C CNN "Link"
+F 3 "~" H 4750 1800 50  0001 C CNN
+F 4 "" H 1150 -1750 50  0001 C CNN "Link"
 	1    4750 1800
 	0    -1   -1   0   
 $EndComp
@@ -459,8 +459,8 @@ P 5100 1800
 F 0 "D9" V 5138 1683 50  0000 R CNN
 F 1 "LED" V 5047 1683 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 5100 1800 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 5100 1800 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1150 -1750 50  0001 C CNN "Link"
+F 3 "~" H 5100 1800 50  0001 C CNN
+F 4 "" H 1150 -1750 50  0001 C CNN "Link"
 	1    5100 1800
 	0    -1   -1   0   
 $EndComp
@@ -557,8 +557,8 @@ P 1950 5000
 F 0 "D14" V 1988 4883 50  0000 R CNN
 F 1 "LED" V 1897 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 1950 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 1950 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H -1300 1450 50  0001 C CNN "Link"
+F 3 "~" H 1950 5000 50  0001 C CNN
+F 4 "" H -1300 1450 50  0001 C CNN "Link"
 	1    1950 5000
 	0    -1   -1   0   
 $EndComp
@@ -596,8 +596,8 @@ P 2300 5000
 F 0 "D15" V 2338 4883 50  0000 R CNN
 F 1 "LED" V 2247 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 2300 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 2300 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H -1300 1450 50  0001 C CNN "Link"
+F 3 "~" H 2300 5000 50  0001 C CNN
+F 4 "" H -1300 1450 50  0001 C CNN "Link"
 	1    2300 5000
 	0    -1   -1   0   
 $EndComp
@@ -622,8 +622,8 @@ P 2650 5000
 F 0 "D16" V 2688 4883 50  0000 R CNN
 F 1 "LED" V 2597 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 2650 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 2650 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H -1300 1450 50  0001 C CNN "Link"
+F 3 "~" H 2650 5000 50  0001 C CNN
+F 4 "" H -1300 1450 50  0001 C CNN "Link"
 	1    2650 5000
 	0    -1   -1   0   
 $EndComp
@@ -653,8 +653,8 @@ P 3000 5000
 F 0 "D17" V 3038 4883 50  0000 R CNN
 F 1 "LED" V 2947 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 3000 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3000 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H -600 1450 50  0001 C CNN "Link"
+F 3 "~" H 3000 5000 50  0001 C CNN
+F 4 "" H -600 1450 50  0001 C CNN "Link"
 	1    3000 5000
 	0    -1   -1   0   
 $EndComp
@@ -679,8 +679,8 @@ P 3350 5000
 F 0 "D18" V 3388 4883 50  0000 R CNN
 F 1 "LED" V 3297 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 3350 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3350 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H -600 1450 50  0001 C CNN "Link"
+F 3 "~" H 3350 5000 50  0001 C CNN
+F 4 "" H -600 1450 50  0001 C CNN "Link"
 	1    3350 5000
 	0    -1   -1   0   
 $EndComp
@@ -712,8 +712,8 @@ P 3700 5000
 F 0 "D19" V 3738 4883 50  0000 R CNN
 F 1 "LED" V 3647 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 3700 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 3700 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 100 1450 50  0001 C CNN "Link"
+F 3 "~" H 3700 5000 50  0001 C CNN
+F 4 "" H 100 1450 50  0001 C CNN "Link"
 	1    3700 5000
 	0    -1   -1   0   
 $EndComp
@@ -764,8 +764,8 @@ P 4850 5000
 F 0 "D20" V 4888 4883 50  0000 R CNN
 F 1 "LED" V 4797 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 4850 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 4850 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1600 1450 50  0001 C CNN "Link"
+F 3 "~" H 4850 5000 50  0001 C CNN
+F 4 "" H 1600 1450 50  0001 C CNN "Link"
 	1    4850 5000
 	0    -1   -1   0   
 $EndComp
@@ -803,8 +803,8 @@ P 5200 5000
 F 0 "D21" V 5238 4883 50  0000 R CNN
 F 1 "LED" V 5147 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 5200 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 5200 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1600 1450 50  0001 C CNN "Link"
+F 3 "~" H 5200 5000 50  0001 C CNN
+F 4 "" H 1600 1450 50  0001 C CNN "Link"
 	1    5200 5000
 	0    -1   -1   0   
 $EndComp
@@ -829,8 +829,8 @@ P 5550 5000
 F 0 "D22" V 5588 4883 50  0000 R CNN
 F 1 "LED" V 5497 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 5550 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 5550 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 1600 1450 50  0001 C CNN "Link"
+F 3 "~" H 5550 5000 50  0001 C CNN
+F 4 "" H 1600 1450 50  0001 C CNN "Link"
 	1    5550 5000
 	0    -1   -1   0   
 $EndComp
@@ -860,8 +860,8 @@ P 5900 5000
 F 0 "D23" V 5938 4883 50  0000 R CNN
 F 1 "LED" V 5847 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 5900 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 5900 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 2300 1450 50  0001 C CNN "Link"
+F 3 "~" H 5900 5000 50  0001 C CNN
+F 4 "" H 2300 1450 50  0001 C CNN "Link"
 	1    5900 5000
 	0    -1   -1   0   
 $EndComp
@@ -886,8 +886,8 @@ P 6250 5000
 F 0 "D24" V 6288 4883 50  0000 R CNN
 F 1 "LED" V 6197 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 6250 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 6250 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 2300 1450 50  0001 C CNN "Link"
+F 3 "~" H 6250 5000 50  0001 C CNN
+F 4 "" H 2300 1450 50  0001 C CNN "Link"
 	1    6250 5000
 	0    -1   -1   0   
 $EndComp
@@ -919,8 +919,8 @@ P 6600 5000
 F 0 "D25" V 6638 4883 50  0000 R CNN
 F 1 "LED" V 6547 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 6600 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 6600 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 3000 1450 50  0001 C CNN "Link"
+F 3 "~" H 6600 5000 50  0001 C CNN
+F 4 "" H 3000 1450 50  0001 C CNN "Link"
 	1    6600 5000
 	0    -1   -1   0   
 $EndComp
@@ -971,8 +971,8 @@ P 8350 5000
 F 0 "D26" V 8388 4883 50  0000 R CNN
 F 1 "LED" V 8297 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 8350 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 8350 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 5100 1450 50  0001 C CNN "Link"
+F 3 "~" H 8350 5000 50  0001 C CNN
+F 4 "" H 5100 1450 50  0001 C CNN "Link"
 	1    8350 5000
 	0    -1   -1   0   
 $EndComp
@@ -1014,8 +1014,8 @@ P 9700 5000
 F 0 "D27" V 9738 4883 50  0000 R CNN
 F 1 "LED" V 9647 4883 50  0000 R CNN
 F 2 "--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder" H 9700 5000 50  0001 C CNN
-F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf" H 9700 5000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/IN-S124BRUW" H 6450 1450 50  0001 C CNN "Link"
+F 3 "~" H 9700 5000 50  0001 C CNN
+F 4 "" H 6450 1450 50  0001 C CNN "Link"
 	1    9700 5000
 	0    -1   -1   0   
 $EndComp
