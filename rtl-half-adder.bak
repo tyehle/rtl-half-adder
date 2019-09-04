@@ -52,25 +52,14 @@ $EndComp
 Wire Wire Line
 	3650 2150 3650 2250
 $Comp
-L power:VCC #PWR014
-U 1 1 5CF8179F
-P 6200 1950
-F 0 "#PWR014" H 6200 1800 50  0001 C CNN
-F 1 "VCC" H 6217 2123 50  0000 C CNN
-F 2 "" H 6200 1950 50  0001 C CNN
-F 3 "" H 6200 1950 50  0001 C CNN
-	1    6200 1950
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:Q_NPN_EBC Q4
 U 1 1 5CF871B9
 P 5300 4900
 F 0 "Q4" H 5491 4946 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 5491 4855 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 5500 5000 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 5300 4900 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 5300 4900 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 5300 4900 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 5300 4900 50  0001 C CNN "Link"
 	1    5300 4900
 	1    0    0    -1  
 $EndComp
@@ -92,8 +81,8 @@ P 5300 4400
 F 0 "Q3" H 5491 4446 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 5491 4355 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 5500 4500 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 5300 4400 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 5300 4400 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 5300 4400 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 5300 4400 50  0001 C CNN "Link"
 	1    5300 4400
 	1    0    0    -1  
 $EndComp
@@ -139,8 +128,8 @@ P 6700 4000
 F 0 "Q8" H 6891 4046 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 6891 3955 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 6900 4100 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 6700 4000 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 6700 4000 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 6700 4000 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 6700 4000 50  0001 C CNN "Link"
 	1    6700 4000
 	1    0    0    -1  
 $EndComp
@@ -162,8 +151,8 @@ P 6700 3500
 F 0 "Q7" H 6891 3546 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 6891 3455 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 6900 3600 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 6700 3500 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 6700 3500 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 6700 3500 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 6700 3500 50  0001 C CNN "Link"
 	1    6700 3500
 	1    0    0    -1  
 $EndComp
@@ -209,8 +198,8 @@ P 6700 5950
 F 0 "Q10" H 6891 5996 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 6891 5905 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 6900 6050 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 6700 5950 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 6700 5950 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 6700 5950 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 6700 5950 50  0001 C CNN "Link"
 	1    6700 5950
 	1    0    0    -1  
 $EndComp
@@ -232,8 +221,8 @@ P 6700 5450
 F 0 "Q9" H 6891 5496 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 6891 5405 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 6900 5550 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 6700 5450 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 6700 5450 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 6700 5450 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 6700 5450 50  0001 C CNN "Link"
 	1    6700 5450
 	1    0    0    -1  
 $EndComp
@@ -279,8 +268,8 @@ P 8150 4850
 F 0 "Q13" H 8341 4896 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 8341 4805 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 8350 4950 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 8150 4850 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 8150 4850 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 8150 4850 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 8150 4850 50  0001 C CNN "Link"
 	1    8150 4850
 	1    0    0    -1  
 $EndComp
@@ -302,8 +291,8 @@ P 8150 4350
 F 0 "Q12" H 8341 4396 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 8341 4305 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 8350 4450 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 8150 4350 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 8150 4350 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 8150 4350 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 8150 4350 50  0001 C CNN "Link"
 	1    8150 4350
 	1    0    0    -1  
 $EndComp
@@ -424,8 +413,8 @@ P 6050 2100
 F 0 "Q6" H 6241 2146 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 6241 2055 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 6250 2200 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 6050 2100 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 6050 2100 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 6050 2100 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 6050 2100 50  0001 C CNN "Link"
 	1    6050 2100
 	1    0    0    -1  
 $EndComp
@@ -447,8 +436,8 @@ P 6050 1600
 F 0 "Q5" H 6241 1646 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 6241 1555 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 6250 1700 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 6050 1600 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 6050 1600 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 6050 1600 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 6050 1600 50  0001 C CNN "Link"
 	1    6050 1600
 	1    0    0    -1  
 $EndComp
@@ -505,8 +494,8 @@ P 7450 1600
 F 0 "Q11" H 7641 1646 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 7641 1555 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 7650 1700 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 7450 1600 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 7450 1600 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 7450 1600 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 7450 1600 50  0001 C CNN "Link"
 	1    7450 1600
 	1    0    0    -1  
 $EndComp
@@ -585,7 +574,8 @@ P 10100 2100
 F 0 "R26" H 10168 2146 50  0000 L CNN
 F 1 "68" H 10168 2055 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 10140 2090 50  0001 C CNN
-F 3 "~" H 10100 2100 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 10100 2100 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
 	1    10100 2100
 	1    0    0    -1  
 $EndComp
@@ -596,8 +586,8 @@ P 10000 2550
 F 0 "Q14" H 10191 2596 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 10191 2505 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 10200 2650 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 10000 2550 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 10000 2550 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 10000 2550 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 10000 2550 50  0001 C CNN "Link"
 	1    10000 2550
 	1    0    0    -1  
 $EndComp
@@ -643,7 +633,8 @@ P 10100 5150
 F 0 "R27" H 10168 5196 50  0000 L CNN
 F 1 "68" H 10168 5105 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 10140 5140 50  0001 C CNN
-F 3 "~" H 10100 5150 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 10100 5150 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
 	1    10100 5150
 	1    0    0    -1  
 $EndComp
@@ -654,8 +645,8 @@ P 10000 5600
 F 0 "Q15" H 10191 5646 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 10191 5555 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 10200 5700 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 10000 5600 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 10000 5600 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 10000 5600 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 10000 5600 50  0001 C CNN "Link"
 	1    10000 5600
 	1    0    0    -1  
 $EndComp
@@ -787,7 +778,8 @@ P 1800 3850
 F 0 "R2" H 1868 3896 50  0000 L CNN
 F 1 "68" H 1868 3805 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1840 3840 50  0001 C CNN
-F 3 "~" H 1800 3850 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 1800 3850 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
 	1    1800 3850
 	1    0    0    -1  
 $EndComp
@@ -798,8 +790,8 @@ P 1700 4300
 F 0 "Q1" H 1891 4346 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 1891 4255 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 1900 4400 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 1700 4300 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 1700 4300 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 1700 4300 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 1700 4300 50  0001 C CNN "Link"
 	1    1700 4300
 	1    0    0    -1  
 $EndComp
@@ -862,7 +854,8 @@ P 3300 3850
 F 0 "R4" H 3368 3896 50  0000 L CNN
 F 1 "68" H 3368 3805 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3340 3840 50  0001 C CNN
-F 3 "~" H 3300 3850 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 3300 3850 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF" H 0   0   50  0001 C CNN "Link"
 	1    3300 3850
 	1    0    0    -1  
 $EndComp
@@ -873,8 +866,8 @@ P 3200 4300
 F 0 "Q2" H 3391 4346 50  0000 L CNN
 F 1 "Q_NPN_EBC" H 3391 4255 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 3400 4400 50  0001 C CNN
-F 3 "https://www.rectron.com/public/product_datasheets/pn2222a.pdf" H 3200 4300 50  0001 C CNN
-F 4 "https://www.mouser.com/ProductDetail/PN2222A-T" H 3200 4300 50  0001 C CNN "Link"
+F 3 "https://www.onsemi.com/pub/Collateral/2N3904-D.pdf" H 3200 4300 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/2N3904BU" H 3200 4300 50  0001 C CNN "Link"
 	1    3200 4300
 	1    0    0    -1  
 $EndComp
@@ -1209,8 +1202,8 @@ L Graphic:Logo_Open_Hardware_Large #LOGO?
 U 1 1 5D03E126
 P 6350 7200
 AR Path="/5D016A93/5D03E126" Ref="#LOGO?"  Part="1" 
-AR Path="/5D03E126" Ref="#LOGO?"  Part="1" 
-F 0 "#LOGO?" H 6350 7700 50  0001 C CNN
+AR Path="/5D03E126" Ref="#LOGO1"  Part="1" 
+F 0 "#LOGO1" H 6350 7700 50  0001 C CNN
 F 1 "Logo_Open_Hardware_Large" H 6350 6800 50  0001 C CNN
 F 2 "" H 6350 7200 50  0001 C CNN
 F 3 "~" H 6350 7200 50  0001 C CNN
