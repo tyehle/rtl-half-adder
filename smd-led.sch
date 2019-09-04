@@ -33,7 +33,8 @@ P 1950 2200
 F 0 "R29" H 2018 2246 50  0000 L CNN
 F 1 "68" H 2018 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1990 2190 50  0001 C CNN
-F 3 "~" H 1950 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 1950 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    1950 2200
 	1    0    0    -1  
 $EndComp
@@ -72,7 +73,8 @@ P 1700 2400
 F 0 "R28" H 1767 2354 50  0000 L CNN
 F 1 "10k" H 1767 2445 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1740 2390 50  0001 C CNN
-F 3 "~" H 1700 2400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 1700 2400 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-1002ELF" H 0   0   50  0001 C CNN "Link"
 	1    1700 2400
 	-1   0    0    1   
 $EndComp
@@ -107,7 +109,8 @@ P 2300 2200
 F 0 "R30" H 2368 2246 50  0000 L CNN
 F 1 "68" H 2368 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2340 2190 50  0001 C CNN
-F 3 "~" H 2300 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 2300 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    2300 2200
 	1    0    0    -1  
 $EndComp
@@ -142,7 +145,8 @@ P 7200 2200
 F 0 "R36" H 7268 2246 50  0000 L CNN
 F 1 "68" H 7268 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7240 2190 50  0001 C CNN
-F 3 "~" H 7200 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 7200 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    7200 2200
 	1    0    0    -1  
 $EndComp
@@ -181,7 +185,8 @@ P 6950 2400
 F 0 "R35" H 7018 2354 50  0000 L CNN
 F 1 "10k" H 7018 2445 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6990 2390 50  0001 C CNN
-F 3 "~" H 6950 2400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 6950 2400 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-1002ELF" H 0   0   50  0001 C CNN "Link"
 	1    6950 2400
 	-1   0    0    1   
 $EndComp
@@ -216,7 +221,8 @@ P 7550 2200
 F 0 "R37" H 7618 2246 50  0000 L CNN
 F 1 "68" H 7618 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7590 2190 50  0001 C CNN
-F 3 "~" H 7550 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 7550 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    7550 2200
 	1    0    0    -1  
 $EndComp
@@ -251,7 +257,8 @@ P 9400 2200
 F 0 "R39" H 9468 2246 50  0000 L CNN
 F 1 "68" H 9468 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9440 2190 50  0001 C CNN
-F 3 "~" H 9400 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 9400 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    9400 2200
 	1    0    0    -1  
 $EndComp
@@ -290,7 +297,8 @@ P 9150 2400
 F 0 "R38" H 9218 2354 50  0000 L CNN
 F 1 "10k" H 9218 2445 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9190 2390 50  0001 C CNN
-F 3 "~" H 9150 2400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 9150 2400 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-1002ELF" H 0   0   50  0001 C CNN "Link"
 	1    9150 2400
 	-1   0    0    1   
 $EndComp
@@ -325,7 +333,8 @@ P 9750 2200
 F 0 "R40" H 9818 2246 50  0000 L CNN
 F 1 "68" H 9818 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9790 2190 50  0001 C CNN
-F 3 "~" H 9750 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 9750 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    9750 2200
 	1    0    0    -1  
 $EndComp
@@ -360,7 +369,8 @@ P 4400 2200
 F 0 "R32" H 4468 2246 50  0000 L CNN
 F 1 "68" H 4468 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4440 2190 50  0001 C CNN
-F 3 "~" H 4400 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 4400 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    4400 2200
 	1    0    0    -1  
 $EndComp
@@ -399,7 +409,8 @@ P 4150 2400
 F 0 "R31" H 4218 2354 50  0000 L CNN
 F 1 "10k" H 4218 2445 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4190 2390 50  0001 C CNN
-F 3 "~" H 4150 2400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 4150 2400 50  0001 C CNN
+F 4 "https://www.mouser.com/ProductDetail/652-CR0805FX-1002ELF" H 0   0   50  0001 C CNN "Link"
 	1    4150 2400
 	-1   0    0    1   
 $EndComp
@@ -434,7 +445,8 @@ P 4750 2200
 F 0 "R33" H 4818 2246 50  0000 L CNN
 F 1 "68" H 4818 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4790 2190 50  0001 C CNN
-F 3 "~" H 4750 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 4750 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    4750 2200
 	1    0    0    -1  
 $EndComp
@@ -459,7 +471,8 @@ P 5100 2200
 F 0 "R34" H 5168 2246 50  0000 L CNN
 F 1 "68" H 5168 2155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5140 2190 50  0001 C CNN
-F 3 "~" H 5100 2200 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 5100 2200 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    5100 2200
 	1    0    0    -1  
 $EndComp
@@ -556,7 +569,8 @@ P 1950 5400
 F 0 "R41" H 2018 5446 50  0000 L CNN
 F 1 "68" H 2018 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1990 5390 50  0001 C CNN
-F 3 "~" H 1950 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 1950 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    1950 5400
 	1    0    0    -1  
 $EndComp
@@ -594,7 +608,8 @@ P 2300 5400
 F 0 "R42" H 2368 5446 50  0000 L CNN
 F 1 "68" H 2368 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2340 5390 50  0001 C CNN
-F 3 "~" H 2300 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 2300 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    2300 5400
 	1    0    0    -1  
 $EndComp
@@ -619,7 +634,8 @@ P 2650 5400
 F 0 "R43" H 2718 5446 50  0000 L CNN
 F 1 "68" H 2718 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 2690 5390 50  0001 C CNN
-F 3 "~" H 2650 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 2650 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    2650 5400
 	1    0    0    -1  
 $EndComp
@@ -649,7 +665,8 @@ P 3000 5400
 F 0 "R44" H 3068 5446 50  0000 L CNN
 F 1 "68" H 3068 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3040 5390 50  0001 C CNN
-F 3 "~" H 3000 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 3000 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    3000 5400
 	1    0    0    -1  
 $EndComp
@@ -674,7 +691,8 @@ P 3350 5400
 F 0 "R45" H 3418 5446 50  0000 L CNN
 F 1 "68" H 3418 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3390 5390 50  0001 C CNN
-F 3 "~" H 3350 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 3350 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    3350 5400
 	1    0    0    -1  
 $EndComp
@@ -706,7 +724,8 @@ P 3700 5400
 F 0 "R46" H 3768 5446 50  0000 L CNN
 F 1 "68" H 3768 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3740 5390 50  0001 C CNN
-F 3 "~" H 3700 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 3700 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    3700 5400
 	1    0    0    -1  
 $EndComp
@@ -757,7 +776,8 @@ P 4850 5400
 F 0 "R47" H 4918 5446 50  0000 L CNN
 F 1 "68" H 4918 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4890 5390 50  0001 C CNN
-F 3 "~" H 4850 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 4850 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    4850 5400
 	1    0    0    -1  
 $EndComp
@@ -795,7 +815,8 @@ P 5200 5400
 F 0 "R48" H 5268 5446 50  0000 L CNN
 F 1 "68" H 5268 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5240 5390 50  0001 C CNN
-F 3 "~" H 5200 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 5200 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    5200 5400
 	1    0    0    -1  
 $EndComp
@@ -820,7 +841,8 @@ P 5550 5400
 F 0 "R49" H 5618 5446 50  0000 L CNN
 F 1 "68" H 5618 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5590 5390 50  0001 C CNN
-F 3 "~" H 5550 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 5550 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    5550 5400
 	1    0    0    -1  
 $EndComp
@@ -850,7 +872,8 @@ P 5900 5400
 F 0 "R50" H 5968 5446 50  0000 L CNN
 F 1 "68" H 5968 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5940 5390 50  0001 C CNN
-F 3 "~" H 5900 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 5900 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    5900 5400
 	1    0    0    -1  
 $EndComp
@@ -875,7 +898,8 @@ P 6250 5400
 F 0 "R51" H 6318 5446 50  0000 L CNN
 F 1 "68" H 6318 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6290 5390 50  0001 C CNN
-F 3 "~" H 6250 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 6250 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    6250 5400
 	1    0    0    -1  
 $EndComp
@@ -907,7 +931,8 @@ P 6600 5400
 F 0 "R52" H 6668 5446 50  0000 L CNN
 F 1 "68" H 6668 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6640 5390 50  0001 C CNN
-F 3 "~" H 6600 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 6600 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    6600 5400
 	1    0    0    -1  
 $EndComp
@@ -958,7 +983,8 @@ P 8350 5400
 F 0 "R53" H 8418 5446 50  0000 L CNN
 F 1 "68" H 8418 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 8390 5390 50  0001 C CNN
-F 3 "~" H 8350 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 8350 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    8350 5400
 	1    0    0    -1  
 $EndComp
@@ -1000,7 +1026,8 @@ P 9700 5400
 F 0 "R54" H 9768 5446 50  0000 L CNN
 F 1 "68" H 9768 5355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9740 5390 50  0001 C CNN
-F 3 "~" H 9700 5400 50  0001 C CNN
+F 3 "https://www.bourns.com/pdfs/chpreztr.pdf" H 9700 5400 50  0001 C CNN
+F 4 "" H 0   0   50  0001 C CNN "Link"
 	1    9700 5400
 	1    0    0    -1  
 $EndComp
