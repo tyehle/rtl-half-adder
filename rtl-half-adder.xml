@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/tobin/src/rtl-half-adder/rtl-half-adder.sch</source>
-    <date>Tue 03 Sep 2019 11:24:39 PM PDT</date>
+    <date>Sat 07 Sep 2019 10:21:05 PM PDT</date>
     <tool>Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -363,17 +363,23 @@
       <tstamp>5CF9B18E</tstamp>
     </comp>
     <comp ref="D3">
-      <value>LED</value>
+      <value>Green</value>
       <footprint>LED_THT:LED_D5.0mm</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS-20-92-1097/4233DG.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/LTL-4233</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFA2DF4</tstamp>
     </comp>
     <comp ref="R26">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/CFR-25JR-52-510R</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFA2F3C</tstamp>
@@ -390,17 +396,23 @@
       <tstamp>5CFA30A0</tstamp>
     </comp>
     <comp ref="D4">
-      <value>LED</value>
+      <value>Green</value>
       <footprint>LED_THT:LED_D5.0mm</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS-20-92-1097/4233DG.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/LTL-4233</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFA6707</tstamp>
     </comp>
     <comp ref="R27">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/CFR-25JR-52-510R</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFA670E</tstamp>
@@ -439,17 +451,23 @@
       <tstamp>5CFA046E</tstamp>
     </comp>
     <comp ref="D1">
-      <value>LED</value>
+      <value>Red</value>
       <footprint>LED_THT:LED_D5.0mm</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS20-2003-313/LTL-4223-032A.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/LTL-4223</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFD43B4</tstamp>
     </comp>
     <comp ref="R2">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/CFR-25JR-52-510R</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFD43BB</tstamp>
@@ -477,17 +495,23 @@
       <tstamp>5CFD43D9</tstamp>
     </comp>
     <comp ref="D2">
-      <value>LED</value>
+      <value>Red</value>
       <footprint>LED_THT:LED_D5.0mm</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS20-2003-313/LTL-4223-032A.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/LTL-4223</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFD6262</tstamp>
     </comp>
     <comp ref="R4">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/CFR-25JR-52-510R</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CFD6269</tstamp>
@@ -559,20 +583,23 @@
       <tstamp>5D0435E6</tstamp>
     </comp>
     <comp ref="D5">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBE87</tstamp>
     </comp>
     <comp ref="R29">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBE8E</tstamp>
@@ -589,39 +616,45 @@
       <tstamp>5CFFBEA4</tstamp>
     </comp>
     <comp ref="D6">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBEB2</tstamp>
     </comp>
     <comp ref="R30">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBEB9</tstamp>
     </comp>
     <comp ref="D10">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBEC8</tstamp>
     </comp>
     <comp ref="R36">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBECF</tstamp>
@@ -638,39 +671,45 @@
       <tstamp>5CFFBEE5</tstamp>
     </comp>
     <comp ref="D11">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBEF3</tstamp>
     </comp>
     <comp ref="R37">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBEFA</tstamp>
     </comp>
     <comp ref="D12">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF09</tstamp>
     </comp>
     <comp ref="R39">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF10</tstamp>
@@ -687,39 +726,45 @@
       <tstamp>5CFFBF26</tstamp>
     </comp>
     <comp ref="D13">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF34</tstamp>
     </comp>
     <comp ref="R40">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF3B</tstamp>
     </comp>
     <comp ref="D7">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF4A</tstamp>
     </comp>
     <comp ref="R32">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF51</tstamp>
@@ -736,39 +781,45 @@
       <tstamp>5CFFBF67</tstamp>
     </comp>
     <comp ref="D8">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF75</tstamp>
     </comp>
     <comp ref="R33">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF7C</tstamp>
     </comp>
     <comp ref="D9">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF85</tstamp>
     </comp>
     <comp ref="R34">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5CFFBF8C</tstamp>
@@ -818,267 +869,309 @@
       <tstamp>5CFFBFB7</tstamp>
     </comp>
     <comp ref="D14">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D009903</tstamp>
     </comp>
     <comp ref="R41">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00990A</tstamp>
     </comp>
     <comp ref="D15">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00992E</tstamp>
     </comp>
     <comp ref="R42">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D009935</tstamp>
     </comp>
     <comp ref="D16">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00993E</tstamp>
     </comp>
     <comp ref="R43">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D009945</tstamp>
     </comp>
     <comp ref="D17">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00B1FC</tstamp>
     </comp>
     <comp ref="R44">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00B203</tstamp>
     </comp>
     <comp ref="D18">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00B20C</tstamp>
     </comp>
     <comp ref="R45">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00B213</tstamp>
     </comp>
     <comp ref="D19">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00C70C</tstamp>
     </comp>
     <comp ref="R46">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D00C713</tstamp>
     </comp>
     <comp ref="D20">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D43E</tstamp>
     </comp>
     <comp ref="R47">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D445</tstamp>
     </comp>
     <comp ref="D21">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D455</tstamp>
     </comp>
     <comp ref="R48">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D45C</tstamp>
     </comp>
     <comp ref="D22">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D465</tstamp>
     </comp>
     <comp ref="R49">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D46C</tstamp>
     </comp>
     <comp ref="D23">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D478</tstamp>
     </comp>
     <comp ref="R50">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D47F</tstamp>
     </comp>
     <comp ref="D24">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D488</tstamp>
     </comp>
     <comp ref="R51">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D48F</tstamp>
     </comp>
     <comp ref="D25">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D49C</tstamp>
     </comp>
     <comp ref="R52">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D01D4A3</tstamp>
     </comp>
     <comp ref="D26">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D02020B</tstamp>
     </comp>
     <comp ref="R53">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D020212</tstamp>
     </comp>
     <comp ref="D27">
-      <value>LED</value>
+      <value>Yellow</value>
       <footprint>--Project:LED_1206_ReverseMountSquare1.5mm_HandSolder</footprint>
-      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Reverse%20Mount/IN-S124BR%20Series_V1.0.pdf</datasheet>
+      <datasheet>https://optoelectronics.liteon.com/upload/download/DS22-2000-254/LTST-C230KSKT.pdf</datasheet>
       <fields>
-        <field name="Link">https://www.mouser.com/ProductDetail/IN-S124BRUW</field>
+        <field name="Link">https://www.mouser.com/ProductDetail/859-LTST-C230KSKT</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D034DC5</tstamp>
     </comp>
     <comp ref="R54">
-      <value>68</value>
+      <value>510</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <datasheet>https://www.bourns.com/pdfs/chpreztr.pdf</datasheet>
+      <fields>
+        <field name="Link">https://www.mouser.com/ProductDetail/652-CR0805FX-5100ELF</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
       <sheetpath names="/smd-led/" tstamps="/5D016A93/"/>
       <tstamp>5D034DCC</tstamp>
