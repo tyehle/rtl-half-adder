@@ -258,7 +258,7 @@
     (fp_text reference D1 (at 1.27 -3.96 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value LED (at 1.27 3.96 180) (layer F.Fab)
+    (fp_text value Red (at 1.27 3.96 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 1.25 0 180) (layer F.Fab)
@@ -294,7 +294,7 @@
     (fp_text reference D2 (at 1.27 -3.96 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value LED (at 1.27 3.96 180) (layer F.Fab)
+    (fp_text value Red (at 1.27 3.96 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 1.25 0 180) (layer F.Fab)
@@ -852,7 +852,7 @@
     (fp_text reference R2 (at 3.81 -2.37 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 68 (at -1.524 0) (layer F.Fab)
+    (fp_text value 510 (at -1.524 0) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 3.81 0 270) (layer F.Fab)
@@ -934,7 +934,7 @@
     (fp_text reference R4 (at 9.652 0 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 68 (at -1.524 0) (layer F.Fab)
+    (fp_text value 510 (at -1.524 0) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 3.81 0 270) (layer F.Fab)
@@ -1837,7 +1837,7 @@
     (fp_text reference R28 (at 0 1.65 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 10k (at 0 -1.65 180) (layer B.Fab)
+    (fp_text value 10k (at 2.54 0 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -1873,7 +1873,7 @@
     (fp_text reference R29 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.651 90) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -1909,7 +1909,7 @@
     (fp_text reference R34 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -1945,7 +1945,7 @@
     (fp_text reference R35 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 10k (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 10k (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -1981,7 +1981,7 @@
     (fp_text reference R36 (at 0 1.65 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 90) (layer B.Fab)
+    (fp_text value 510 (at 0 -2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -2017,7 +2017,7 @@
     (fp_text reference R37 (at 0 1.65 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 90) (layer B.Fab)
+    (fp_text value 510 (at 0 -2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -2053,7 +2053,7 @@
     (fp_text reference R39 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -2118,7 +2118,7 @@
     (fp_text reference R30 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0.009 -1.651 90) (layer B.Fab)
+    (fp_text value 510 (at 0.009 2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0.009 0 90) (layer B.Fab)
@@ -2154,7 +2154,7 @@
     (fp_text reference R31 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 10k (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 10k (at 2.032 0) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -2189,7 +2189,7 @@
     (fp_text reference D3 (at 1.27 -3.96 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value LED (at 1.27 3.96 180) (layer F.Fab)
+    (fp_text value Green (at 1.27 3.96 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 1.25 0 180) (layer F.Fab)
@@ -2225,7 +2225,7 @@
     (fp_text reference D4 (at 1.27 4.064 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value LED (at 1.27 3.96 180) (layer F.Fab)
+    (fp_text value Green (at 1.27 3.96 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 1.25 0 180) (layer F.Fab)
@@ -2336,7 +2336,7 @@
     (fp_text reference Q16 (at 0 2.5) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Q_NPN_BEC (at 0 -2.4765) (layer B.Fab)
+    (fp_text value Q_NPN_BEC (at 5.334 0) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.76 -1.58) (end -0.7 -1.58) (layer B.SilkS) (width 0.12))
@@ -2499,7 +2499,7 @@
     (fp_text reference R26 (at 3.81 -2.37 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 68 (at -2.032 0 180) (layer F.Fab)
+    (fp_text value 510 (at -2.032 0 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 3.81 0 180) (layer F.Fab)
@@ -2540,7 +2540,7 @@
     (fp_text reference R27 (at 3.81 -2.37 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 68 (at -2.032 0 180) (layer F.Fab)
+    (fp_text value 510 (at -2.032 0 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 3.81 0 180) (layer F.Fab)
@@ -2582,7 +2582,7 @@
     (fp_text reference R32 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -2618,7 +2618,7 @@
     (fp_text reference R33 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -2654,7 +2654,7 @@
     (fp_text reference R38 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 10k (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 10k (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -2690,7 +2690,7 @@
     (fp_text reference R40 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -2837,7 +2837,7 @@
     (fp_text reference R41 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at -0.009 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -2873,7 +2873,7 @@
     (fp_text reference R42 (at 0 1.65) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65) (layer B.Fab)
+    (fp_text value 510 (at 0 -1.65) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0) (layer B.Fab)
@@ -2909,7 +2909,7 @@
     (fp_text reference R43 (at 0 1.65) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65) (layer B.Fab)
+    (fp_text value 510 (at 0 -1.65) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -2945,7 +2945,7 @@
     (fp_text reference R44 (at 0 1.65) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65) (layer B.Fab)
+    (fp_text value 510 (at -2.794 0) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -2981,7 +2981,7 @@
     (fp_text reference R45 (at 0 1.65 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 180) (layer B.Fab)
+    (fp_text value 510 (at 0 1.778 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -3017,7 +3017,7 @@
     (fp_text reference R46 (at 0 1.65 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 180) (layer B.Fab)
+    (fp_text value 510 (at 2.794 0 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -3053,7 +3053,7 @@
     (fp_text reference R47 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
@@ -3089,7 +3089,7 @@
     (fp_text reference R48 (at 0 1.65) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65) (layer B.Fab)
+    (fp_text value 510 (at 0 -1.65) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -3125,7 +3125,7 @@
     (fp_text reference R49 (at 0 1.65) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65) (layer B.Fab)
+    (fp_text value 510 (at 0 -1.65) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -3161,7 +3161,7 @@
     (fp_text reference R50 (at 0 1.65) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65) (layer B.Fab)
+    (fp_text value 510 (at -2.794 0) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0) (layer B.Fab)
@@ -3197,7 +3197,7 @@
     (fp_text reference R51 (at 0 1.65 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 180) (layer B.Fab)
+    (fp_text value 510 (at 0 1.778 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -3233,7 +3233,7 @@
     (fp_text reference R52 (at 0 1.65 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 180) (layer B.Fab)
+    (fp_text value 510 (at 2.794 0 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -3269,7 +3269,7 @@
     (fp_text reference R53 (at 0 1.65 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 270) (layer B.Fab)
+    (fp_text value 510 (at 0 2.286) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1 -0.6) (end -1 0.6) (layer B.Fab) (width 0.1))
@@ -3305,7 +3305,7 @@
     (fp_text reference R54 (at 0 1.65 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 68 (at 0 -1.65 90) (layer B.Fab)
+    (fp_text value 510 (at 0 -2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -3693,7 +3693,7 @@
     (fp_text reference D5 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 2.54 0 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -3732,7 +3732,7 @@
     (fp_text reference D6 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 2.54 0 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -3771,7 +3771,7 @@
     (fp_text reference D7 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0) (layer B.Fab)
@@ -3810,7 +3810,7 @@
     (fp_text reference D8 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -3849,7 +3849,7 @@
     (fp_text reference D9 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0) (layer B.Fab)
@@ -3888,7 +3888,7 @@
     (fp_text reference D10 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -3927,7 +3927,7 @@
     (fp_text reference D11 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -3966,7 +3966,7 @@
     (fp_text reference D12 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0) (layer B.Fab)
@@ -4005,7 +4005,7 @@
     (fp_text reference D13 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4035,16 +4035,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D9135)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410FB0) (tstamp 5D4D9135)
     (at 76.708 54.61 90)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D009903)
     (attr smd)
-    (fp_text reference D14 (at 0 2.25 90) (layer B.SilkS)
+    (fp_text reference D14 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 0 -3.556 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4074,16 +4074,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D9148)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410FAA) (tstamp 5D4D9148)
     (at 71.12 81.534 180)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D00992E)
     (attr smd)
-    (fp_text reference D15 (at 0 2.25 180) (layer B.SilkS)
+    (fp_text reference D15 (at 0 2.25 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 180) (layer B.Fab)
+    (fp_text value Yellow (at 0 2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4113,16 +4113,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D915B)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410F9F) (tstamp 5D4D915B)
     (at 71.12 102.87 180)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D00993E)
     (attr smd)
-    (fp_text reference D16 (at 0 2.25 180) (layer B.SilkS)
+    (fp_text reference D16 (at 0 2.25 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 180) (layer B.Fab)
+    (fp_text value Yellow (at 0 2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -4152,16 +4152,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D916E)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410FA4) (tstamp 5D4D916E)
     (at 83.82 102.87 90)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D00B1FC)
     (attr smd)
-    (fp_text reference D17 (at 0 2.25 90) (layer B.SilkS)
+    (fp_text reference D17 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 2.54 0 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4200,7 +4200,7 @@
     (fp_text reference D18 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0) (layer B.Fab)
@@ -4239,7 +4239,7 @@
     (fp_text reference D19 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 0 -3.556 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4269,16 +4269,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D91A7)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410FAD) (tstamp 5D4D91A7)
     (at 83.058 69.85 90)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D01D43E)
     (attr smd)
-    (fp_text reference D20 (at 0 2.25 90) (layer B.SilkS)
+    (fp_text reference D20 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 0 -3.556 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -4308,16 +4308,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D91BA)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410FA7) (tstamp 5D4D91BA)
     (at 77.47 86.36 180)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D01D455)
     (attr smd)
-    (fp_text reference D21 (at 0 2.25 180) (layer B.SilkS)
+    (fp_text reference D21 (at 0 2.25 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 180) (layer B.Fab)
+    (fp_text value Yellow (at 0 2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -4347,16 +4347,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D91CD)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410FA1) (tstamp 5D4D91CD)
     (at 77.47 115.062 180)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D01D465)
     (attr smd)
-    (fp_text reference D22 (at 0 2.25 180) (layer B.SilkS)
+    (fp_text reference D22 (at 0 2.25 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 180) (layer B.Fab)
+    (fp_text value Yellow (at 0 2.286 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 180) (layer B.Fab)
@@ -4386,16 +4386,16 @@
     )
   )
 
-  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D157787) (tstamp 5D4D91E0)
+  (module --Project:LED_1206_ReverseMountSquare1.5mm_HandSolder (layer B.Cu) (tedit 5D410F98) (tstamp 5D4D91E0)
     (at 83.82 130.81 270)
     (descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode reverse")
     (path /5D016A93/5D01D478)
     (attr smd)
-    (fp_text reference D23 (at 0 2.25 270) (layer B.SilkS)
+    (fp_text reference D23 (at 0 2.25 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 270) (layer B.Fab)
+    (fp_text value Yellow (at 0 3.556) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4434,7 +4434,7 @@
     (fp_text reference D24 (at 0 2.25) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25) (layer B.Fab)
+    (fp_text value Yellow (at 0 -2.25) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4473,7 +4473,7 @@
     (fp_text reference D25 (at 0 2.25 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 270) (layer B.Fab)
+    (fp_text value Yellow (at 0 3.556) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.6 0.8) (end -1.2 0.8) (layer B.Fab) (width 0.1))
@@ -4512,7 +4512,7 @@
     (fp_text reference D26 (at 0 2.25 90) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 90) (layer B.Fab)
+    (fp_text value Yellow (at 0 -3.556 180) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 90) (layer B.Fab)
@@ -4551,7 +4551,7 @@
     (fp_text reference D27 (at 0 2.25 270) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value LED (at 0 -2.25 270) (layer B.Fab)
+    (fp_text value Yellow (at 0 3.556) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 270) (layer B.Fab)
