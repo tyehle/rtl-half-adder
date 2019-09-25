@@ -27,9 +27,8 @@ A half adder circuit implemented with resistor transistor logic. All essential l
 | SW1 SW2 SW3                                                                                 | SW_SPDT      | EG1218            | 3        | [Datasheet](https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf)                      | [mouser.com](https://www.mouser.com/ProductDetail/EG1218)               |
 
 
-# Component Placement
-![front-fab](docs/doc-F.svg)
-![back-fab](docs/doc-B.svg)
+# Assembly notes
+[PDF](docs/rtl-half-adder-assembly.pdf)
 
 # LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
